@@ -1,0 +1,13 @@
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\BLL.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\BLL.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\Models.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\Repository.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\Models.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\Repository.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\obj\Debug\BLL.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\obj\Debug\BLL.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\DatabaseContext.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\EntityFramework.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\DatabaseContext.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\BLL\bin\Debug\EntityFramework.xml

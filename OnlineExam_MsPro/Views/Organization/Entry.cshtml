@@ -1,0 +1,84 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Entry</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+   
+        <h1 class="col-md-offset-3">Organization Information</h1><br />
+<div>
+    @*form action=default type == Get*@
+    <form method="post">
+        <div class="container">
+            <div class="form-horizontal">
+                <div class="form-group">
+                    <h4><label for="Name" class="col-md-2">Name :</label></h4>
+                    <div class="col-md-6">
+                        <input type="text" id="Name" name="Name" class="form-control"/>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <h4> <label for="Code" class="col-md-2">Code :</label></h4>
+                    <div class="col-md-6">
+                        <input type="text" id="Code" name="Code" class="form-control"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <h4><label for="Address" class="col-md-2">Address :</label></h4>
+                    <div class="col-md-6">
+                        <textarea id="Address" name="Address" class="form-control"></textarea>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <h4><label for="ContactNo" class="col-md-2">Contact No :</label></h4>
+                    <div class="col-md-6">
+                        <input type="text" id="ContactNo" name="ContactNo" class="form-control"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <h4><label for="About" class="col-md-2">About :</label></h4>
+                    <div class="col-md-6">
+                        <input type="text" id="About" name="About" class="form-control"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <h4><label for="Logo" class="col-md-2">Logo :</label></h4>
+                    <div class="col-md-6">
+                        <input type="text" id="Logo" name="Logo" class="form-control"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <h4><label for="Url" class="col-md-2">Url :</label></h4>
+                    <div class="col-md-6">
+                        <input type="text" id="Url" name="Url" class="form-control"/>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <h4><label for="Course" class="col-md-2">Course :</label></h4>
+
+                    <div class="col-md-6">
+                        <input type="text" id="Course" name="Course" class="form-control"/>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="form-group">
+                        <input type="submit" class="btn btn-primary col-md-offset-7"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+    
+</body>
+</html>

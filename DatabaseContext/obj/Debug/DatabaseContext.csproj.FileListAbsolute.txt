@@ -1,0 +1,15 @@
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\DatabaseContext.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\DatabaseContext.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\EntityFramework.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\Models.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\Models.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\EntityFramework.xml
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\obj\Debug\DatabaseContext.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\obj\Debug\DatabaseContext.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\obj\Debug\DatabaseContext.Migrations.InitialCreate.resources
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_ContactNo_Required.resources

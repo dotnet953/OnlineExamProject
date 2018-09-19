@@ -1,0 +1,9 @@
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\bin\Debug\Models.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\bin\Debug\Models.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\obj\Debug\Models.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\obj\Debug\Models.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\bin\Debug\Models.dll.config
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\bin\Debug\EntityFramework.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\bin\Debug\EntityFramework.xml
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Models\bin\Debug\EntityFramework.SqlServer.xml
