@@ -1,0 +1,62 @@
+﻿@using Models
+
+@{
+    Layout = null;
+    //Organization organization =(Organization)ViewData["Organization"];
+    Organization organization = ViewBag.Organization;
+
+}
+@*@(1+1)
+sirajul.mamun@gmail.com
+sirajul.mamun@(gmail.com)
+{
+
+}*@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Organization information</title>
+</head>
+<body>
+<div>
+    <h1>Organization Information</h1>
+    <div class="container">
+        <div class="form-horizontal">
+            <div class="form-group">
+                <label>Name</label>
+                <p>@organization.Name</p>
+            </div>
+            
+            <div class="form-group">
+                <label>Code</label>
+                <p>@organization.Code</p>
+
+            </div>
+            <div class="form-group">
+                <label>Address</label>
+                <p>@organization.Address</p>
+            </div>
+            <div class="form-group">
+                <label>ContactNo</label>
+                <p>@organization.ContactNo</p>
+            </div>
+            <div class="form-group">
+                <label>About</label>
+                <p>@organization.About</p>
+            </div>
+            <div class="form-group">
+                <label>LogoName</label>
+                <p>@organization.LogoName</p>
+            </div>
+            <div class="form-group">
+                <label>LogoUrl</label>
+                <p>@organization.LogoUrl</p>
+            </div>
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -15,6 +15,7 @@ namespace OnlineExam_MsPro.Controllers
         [HttpGet]
         public ActionResult Entry()
         {  
+            ModelState.AddModelError("","There is an unknown error occured");
             return View();
         }
         [HttpPost]
@@ -24,8 +25,25 @@ namespace OnlineExam_MsPro.Controllers
             //if (!string.IsNullOrEmpty(organization.Name) && organization.ContactNo > 0)
             if (ModelState.IsValid)
             {
-                _organizationManager.Add(organization);
+               bool isAdded =  _organizationManager.Add(organization);
+                if (isAdded)
+                {
+                    //ViewData["Organization"] = organization;
+                    ViewBag.Organization = organization;
+                   // return RedirectToAction("Information");
+                    return View("information");
+                }
             }
+            return View();
+        }
+
+        public ActionResult Information()
+        {
+            return View();
+        }
+
+        public ActionResult Detail()
+        {
             return View();
         }
 	}

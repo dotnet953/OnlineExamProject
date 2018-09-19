@@ -13,6 +13,8 @@ namespace BLL
         OrganizationRepository _organizationRepository = new OrganizationRepository();
         public bool Add(Organization organization)
         {
+
+
             return _organizationRepository.Add(organization);
         }
     }

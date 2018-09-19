@@ -1,4 +1,6 @@
 ﻿
+@model Models.Organization
+
 @{
     Layout = null;
 }
@@ -18,55 +20,73 @@
     @*form action=default type == Get*@
     <form method="post">
         <div class="container">
+
             <div class="form-horizontal">
+                @Html.ValidationSummary(true,null, htmlAttributes: new {@class="text-danger"})
                 <div class="form-group">
                     <h4><label for="Name" class="col-md-2">Name :</label></h4>
                     <div class="col-md-6">
-                        <input type="text" id="Name" name="Name" class="form-control"/>
+                        @Html.TextBoxFor(c => c.Name, new {@class = "form-control", id = "OrganizationName"})
+                        @*<input type="text" id="Name" name="Name" class="form-control"/>*@
+                        @Html.ValidationMessageFor(c => c.Name, null, new {@class = "text-danger"})
                     </div>
                 </div>
 
                 <div class="form-group">
                     <h4> <label for="Code" class="col-md-2">Code :</label></h4>
                     <div class="col-md-6">
-                        <input type="text" id="Code" name="Code" class="form-control"/>
+                        @Html.TextBoxFor(c => c.Code, new {@class = "form-control", id = "OrganizationCode"})
+                        @*<input type="text" id="Code" name="Code" class="form-control"/>*@
+                        @Html.ValidationMessageFor(c => c.Code, null, new {@class = "text-danger"})
                     </div>
                 </div>
                 <div class="form-group">
                     <h4><label for="Address" class="col-md-2">Address :</label></h4>
                     <div class="col-md-6">
-                        <textarea id="Address" name="Address" class="form-control"></textarea>
+                        @Html.TextBoxFor(c => c.Address, new {@class = "form-control", id = "OrganizationAddress"})
+                        @*<textarea id="Address" name="Address" class="form-control"></textarea>*@
+                        @Html.ValidationMessageFor(c => c.Address)
                     </div>
                 </div>
                 <div class="form-group">
                     <h4><label for="ContactNo" class="col-md-2">Contact No :</label></h4>
                     <div class="col-md-6">
-                        <input type="text" id="ContactNo" name="ContactNo" class="form-control"/>
+                        @Html.TextBoxFor(c => c.ContactNo, new {@class = "form-control", id = "OrganizationContactNo"})
+                        @*<input type="text" id="ContactNo" name="ContactNo" class="form-control"/>*@
+                        @Html.ValidationMessageFor(c => c.ContactNo)
                     </div>
                 </div>
                 <div class="form-group">
                     <h4><label for="About" class="col-md-2">About :</label></h4>
                     <div class="col-md-6">
-                        <input type="text" id="About" name="About" class="form-control"/>
+                        @Html.TextBoxFor(c => c.About, new {@class = "form-control", id = "OrganizationAbout"})
+                        @*<input type="text" id="About" name="About" class="form-control"/>*@
+                        @Html.ValidationMessageFor(c => c.About)
                     </div>
                 </div>
                 <div class="form-group">
                     <h4><label for="Logo" class="col-md-2">Logo :</label></h4>
                     <div class="col-md-6">
-                        <input type="text" id="Logo" name="Logo" class="form-control"/>
+                        @Html.TextBoxFor(c => c.LogoName, new {@class = "form-control", id = "OrganizationName"})
+                        @*<input type="text" id="Logo" name="Logo" class="form-control"/>*@
+                        @Html.ValidationMessageFor(c => c.LogoName)
                     </div>
                 </div>
                 <div class="form-group">
                     <h4><label for="Url" class="col-md-2">Url :</label></h4>
                     <div class="col-md-6">
-                        <input type="text" id="Url" name="Url" class="form-control"/>
+                        @Html.TextBoxFor(c => c.LogoUrl, new {@class = "form-control", id = "OrganizationUrl"})
+                        @*<input type="text" id="Url" name="Url" class="form-control"/>*@
+                        @Html.ValidationMessageFor(c => c.LogoUrl)
                     </div>
                 </div>
                 <div class="form-group">
                     <h4><label for="Course" class="col-md-2">Course :</label></h4>
 
                     <div class="col-md-6">
+                        @*@Html.TextBoxFor(c => c.Courses, new {@class = "form-control", id = "OrganizationCourses"})*@
                         <input type="text" id="Course" name="Course" class="form-control"/>
+                        @*@Html.ValidationMessageFor(c => c.Courses)*@
                     </div>
                 </div>
 

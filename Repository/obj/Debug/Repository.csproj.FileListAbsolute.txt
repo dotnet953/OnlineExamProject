@@ -12,3 +12,17 @@ D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\
 D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Repository\bin\Debug\Repository.dll.config
 D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Repository\bin\Debug\EntityFramework.SqlServer.dll
 D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExam_MsPro\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\Repository.dll.config
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\Repository.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\Repository.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\DatabaseContext.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\EntityFramework.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\Models.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\DatabaseContext.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\Models.pdb
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\EntityFramework.xml
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\obj\Debug\Repository.dll
+D:\1Obaedullah_software\BITM CLASS\Day 25\PracticeMVC_Empty_25\OnlineExamProject\Repository\obj\Debug\Repository.pdb
